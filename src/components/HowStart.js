@@ -10,7 +10,7 @@ import autoRefresh from '../img/autoRefresh.png'
 const HowStart = () => {
 
     return (
-        <Card className="text-center h5">
+        <Card className="text-center h5 mb-5 text-white bg-dark" >
             <h1 className="display-2">Jak zacząć</h1>
             Aby rozpocząć należy ściągnąć dwie wtyczki Tampermonkey oraz Auto Refresh (o ile nie Masz takiej wtyczki)
                 <Row className="mt-3 mx-auto mb-3">
