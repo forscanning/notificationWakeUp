@@ -3,7 +3,7 @@ import Card from 'react-bootstrap/Card'
 import Col from 'react-bootstrap/Col'
 import Button from 'react-bootstrap/Button'
 import Row from 'react-bootstrap/Row'
-import LinkToApp from './LinkToApp'
+
 
 const InstalScripts = () => {
     return (<Card className="text-center h5 mb-5 text-white bg-dark">
