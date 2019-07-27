@@ -4,6 +4,7 @@
 // @description  Sweet Dreams!!! ;)
 // @author       Adam Charusta
 // @match        http://e-ross/_layouts/15/ItApp/sd/EventList.aspx
+// @downloadURL https://github.com/forscanning/notificationWakeUp/blob/master/src/userscripts/auto-download.user.js
 // ==/UserScript==
 (function () {
 
@@ -44,7 +45,7 @@
             div.style.top = "0%";
             div.style.position = "absolute";
             div.style.cursor = "pointer";
-            div.innerText = "!!!KLIKNIJ ABY WY£¥CZYÆ ALARM!!!!";
+            div.innerText = "!!!KLIKNIJ ABY WYŁĄCZYĆ ALARM!!!!";
             div.style.fontSize = '72px';
             div.style.textAlign = 'center';
             div.style.lineHeight = '100vh';
