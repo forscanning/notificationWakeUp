@@ -4,6 +4,8 @@
 // @description  Sweet Dreams!!! ;)
 // @author       Adam Charusta
 // @match        http://e-ross/_layouts/15/ItApp/sd/EventList.aspx
+// @updateURL https://github.com/forscanning/notificationWakeUp/blob/master/src/userscripts/auto-download.user.js
+// @downloadURL https://github.com/forscanning/notificationWakeUp/blob/master/src/userscripts/auto-download.user.js
 // ==/UserScript==
 
 (function () {

@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         NotificationWakeUp_zAutopobieraniem
-// @version      1.2.0
+// @version      2.2.0
 // @description  Sweet Dreams!!! ;)
 // @author       Adam Charusta
 // @match        http://e-ross/_layouts/15/ItApp/sd/EventList.aspx
