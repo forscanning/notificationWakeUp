@@ -9,7 +9,7 @@ const MonkeySettings = () => {
 
             <Card.Body className="text-center">
                 <Card.Title className="display-4">Uruchomienie skryptu</Card.Title>
-                Aby uruchomić skrypt klikamy na suwak aby był zielony. Ważne aby oba skrypty nie były na raz uruchomione. Po wszystkim ustawiamy czas co ile się ma odświeżać i wszystko działa :)
+                Aby uruchomić skrypt klikamy na logo Tampermonkey (ta czarna główka) po czym klikamy na suwak aby był zielony. Ważne aby oba skrypty nie były na raz uruchomione. Po wszystkim ustawiamy czas co ile się ma odświeżać i wszystko działa :)
             </Card.Body>
             <Card.Img variant="bottom" src={gif} />
             <Card.Footer className="bg-danger">WAŻNE!!! Nie wygaduj się koordynatorom o tym, to nasa słodka tajemnica. A i na koniec pracy wyłącz ten skrypt aby nie dzwonił (suwak musi być na szaro)</Card.Footer>
