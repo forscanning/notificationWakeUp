@@ -12,6 +12,7 @@ const MonkeySettings = () => {
                 Aby uruchomić skrypt klikamy na suwak aby był zielony. Ważne aby oba skrypty nie były na raz uruchomione. Po wszystkim ustawiamy czas co ile się ma odświeżać i wszystko działa :)
             </Card.Body>
             <Card.Img variant="bottom" src={gif} />
+            <Card.Footer className="bg-danger">WAŻNE!!! Nie wygaduj się koordynatorom o tym, to nasa słodka tajemnica. A i na koniec pracy wyłącz ten skrypt aby nie dzwonił (suwak musi być na szaro)</Card.Footer>
         </Card >
     );
 }
