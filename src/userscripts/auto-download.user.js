@@ -70,7 +70,7 @@
         })
 
         const audio = document.createElement('audio');
-        audio.setAttribute('src', 'http://www.mikefromchurch.com/ringtones/RINGTONES-wav/hawaii_five-o.wav');
+        audio.setAttribute('src', 'https://www.kozco.com/tech/organfinale.wav');
         audio.setAttribute('loop', 'true');
         audio.setAttribute('preload', 'none');
 
